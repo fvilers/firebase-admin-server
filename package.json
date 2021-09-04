@@ -1,0 +1,21 @@
+{
+  "name": "firebase-admin-server",
+  "version": "0.0.0",
+  "description": "A Web Application that acts as a wrapper around the Firebase Admin SDK",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/firebase-admin-server.git"
+  },
+  "keywords": [
+    "firebase",
+    "firebase-admin",
+    "firebase-admin-sdk"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/firebase-admin-server/issues"
+  },
+  "homepage": "https://github.com/fvilers/firebase-admin-server#readme"
+}
