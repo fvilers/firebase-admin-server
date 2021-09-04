@@ -25,11 +25,13 @@
   "dependencies": {
     "debug": "^4.3.2",
     "express": "^4.17.1",
+    "http-errors": "^1.8.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
     "@types/debug": "^4.1.7",
     "@types/express": "^4.17.13",
+    "@types/http-errors": "^1.8.1",
     "@types/morgan": "^1.9.3",
     "@types/node": "^16.7.10",
     "cross-env": "^7.0.3",
