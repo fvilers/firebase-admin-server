@@ -24,11 +24,13 @@
   "homepage": "https://github.com/fvilers/firebase-admin-server#readme",
   "dependencies": {
     "debug": "^4.3.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "@types/debug": "^4.1.7",
     "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
     "@types/node": "^16.7.10",
     "cross-env": "^7.0.3",
     "ts-node-dev": "^1.1.8",
